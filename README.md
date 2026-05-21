@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://github.com/MohamedKatef">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Mohamed+K+Ahmed+%F0%9F%91%8B;R%26D+Engineer+%40+Boston+Scientific;Cardiac+EP+%E2%80%A2+Biosignals+%E2%80%A2;ML+for+Clinical+Applications;UBC+Biomedical+Engineering%2C+BASc" alt="Mohamed K Ahmed typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Mohamed+K+Ahmed+%F0%9F%91%8B;R%26D+Engineer+%40+Boston+Scientific;%E2%80%A2+Cardiac+EP+%E2%80%A2+Biosignals;%E2%80%A2+ML+for+Clinical+Applications;UBC+Biomedical+Engineering%2C+BASc" alt="Mohamed K Ahmed typing intro" />
   </a>
 </h1>
 
